@@ -1,10 +1,10 @@
 * glsl-metadata
 
+A machine-readable representation of all versions of the OpenGL Shader
+Language specifications.
 
-
-|---------+-------------------------------------------|
-| source  | git:https://git.mfiano.net/mfiano/glsl-metadata.git   |
-| commit  |   |
-| systems | glsl-metadata |
-|---------+-------------------------------------------|
-
+|---------+-------------------------------------------------|
+| source  | git:https://github.com/mfiano/glsl-metadata.git |
+| commit  | 208a5dc                                         |
+| systems | glsl-metadata                                   |
+|---------+-------------------------------------------------|
